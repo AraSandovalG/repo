@@ -1,0 +1,15 @@
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\bin\Debug\net6.0\MSTECSproject.exe
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\bin\Debug\net6.0\MSTECSproject.deps.json
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\bin\Debug\net6.0\MSTECSproject.runtimeconfig.json
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\bin\Debug\net6.0\MSTECSproject.dll
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\bin\Debug\net6.0\MSTECSproject.pdb
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.csproj.AssemblyReference.cache
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.AssemblyInfoInputs.cache
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.AssemblyInfo.cs
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.csproj.CoreCompileInputs.cache
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.dll
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\refint\MSTECSproject.dll
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.pdb
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\MSTECSproject.genruntimeconfig.cache
+C:\Users\AranzaSandoval\MSTECS\MSTECSproject\obj\Debug\net6.0\ref\MSTECSproject.dll
